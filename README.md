@@ -6,7 +6,9 @@ This is a demo repository for making API calls in a React app. The `TopStories` 
 ###  Requirements:
   * Git
   * Node Package Manager (npm)
-
+  * New York Times API key
+  * [CretaceousApi](https://github.com/RyanDuff613/API.Solution/tree/main) running at localhost:5000
+  
 ### Command Line Setup and Installation:
 * Clone [CretaceousApi](https://github.com/RyanDuff613/API.Solution/tree/main). Follow instructions for installing and running the API (required for `TopAnimal` component).
 * In order for the `TopStories` component to work you'll need to obtain an API key from the New York Times. Follow instructions [here](https://developer.nytimes.com/apis).
